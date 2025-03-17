@@ -1,4 +1,4 @@
-Hi 👋 My name is Steffan Hinkle
+Hi 👋 
 ===============================
 Full Stack Software Developer
 -----------------------------
